@@ -1,0 +1,6 @@
+mods/
+mods-logs/
+mods-state/
+node_modules/
+.DS_Store
+Thumbs.db
