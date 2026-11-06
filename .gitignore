@@ -1,4 +1,5 @@
-mods/
+/mods/
+**/.claude/mods/
 mods-logs/
 mods-state/
 node_modules/
